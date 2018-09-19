@@ -14,3 +14,27 @@ h1 {
 .bg-tertiary {
   background-color: #C3DDE0;
 }
+
+.page-footer {
+  margin-top: 3em;
+}
+
+.top_navbar {
+  background-color: #000045;
+}
+
+#jumbotron {
+  background-color: #EB5E55;
+}
+
+#body {
+  background-color: #FFF4E9;
+}
+
+#footer {
+  background-color: #FFF4E9;
+}
+
+.footer_text {
+  color: black;
+}
